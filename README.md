@@ -6,14 +6,13 @@ In this assignment, you will embark on a hands-on journey to create a decision t
 
 Contents Overview:
 
-1. Introduction
-2. Required Libraries
-3. Project Aim
-4. Dataset Overview - One Hot Encoding Explained
-5. Refresher on Decision Trees
-6. Tree Construction Methodology
-7. Dataset Preliminary Exploration
-
+  1. Introduction
+  2. Required Libraries
+  3. Project Aim
+  4. Dataset Overview - One Hot Encoding Explained
+  5. Refresher on Decision Trees
+  6. Tree Construction Methodology
+  7. Dataset Preliminary Exploration
 
 1. Introduction:
 
@@ -22,9 +21,9 @@ This assignment walks you through the process of employing a decision tree algor
 2. Required Libraries:
 
 Ensure the availability of the following libraries before commencing:
-1. NumPy
-2. Pandas
-3. Matplotlib 
+  1. NumPy
+  2. Pandas
+  3. Matplotlib 
 
 3. Project Aim:
 
