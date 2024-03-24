@@ -1,4 +1,4 @@
-# ML-Assignment3: Classification of Mushrooms as Edible or Poisonous Using Decision Trees
+# ML-Assignment_3: Classification of Mushrooms as Edible or Poisonous Using Decision Trees
 
 ## Overview: 
 
